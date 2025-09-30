@@ -1,0 +1,14 @@
+# Ignore model files (don’t upload trained model artifacts)
+*.pkl
+*.h5
+*.pt
+*.joblib
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
